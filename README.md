@@ -5,7 +5,7 @@ This project is a QR code component challenge provided by Frontend Mentor (https
 
 ## Project Details
 - **Challenge Source**: Frontend Mentor
-- **Developer**: Ammar Alsuhaimi (https://github.com/ammar-alsuhaimi)
+- **Developer**: [Ammar Alsuhaimi](https://github.com/ammar-alsuhaimi)
 - **Purpose**: To build a responsive QR code component that demonstrates front-end coding skills
 
 ## Key Features
