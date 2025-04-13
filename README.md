@@ -1,7 +1,7 @@
 # QR Code Component Project
 
 ## Project Overview
-This project is a QR code component challenge provided by Frontend Mentor (https://www.frontendmentor.io). 
+This project is a QR code component challenge provided by [Frontend Mentor](https://www.frontendmentor.io). 
 
 The code was developed by Ammar Alsuhaimi as a solution to improve front-end development skills.
 
