@@ -23,4 +23,4 @@ This project is a QR code component challenge provided by Frontend Mentor (https
 1. Scan the QR code to visit Frontend Mentor
 2. Explore coding challenges and improve your front-end skills
 
-[Website-Link](https://ammar-alsuhaimi.github.io/QR-Code-Component/qr-code-component-main/index.html)
+  [Website-Link](https://ammar-alsuhaimi.github.io/QR-Code-Component/qr-code-component-main/index.html)
